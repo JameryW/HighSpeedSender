@@ -12,7 +12,7 @@
 #include <linux/time.h>
 
 MODULE_LICENSE("Dual BSD/GPL");
-MODULE_AUTHOR("Wang Qi, sxakwq@qq.com");
+MODULE_AUTHOR("Wang Qi, jameryw@gmail.com");
 MODULE_VERSION("v1.0");
 MODULE_DESCRIPTION("A very high-speed packets sender, which can be used to test the performance of NIC or do something evil..");
 MODULE_ALIAS("VHSPS");
