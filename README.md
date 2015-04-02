@@ -1,4 +1,4 @@
-Linux 2.6.32 and above
+Linux 2.6.32 or above
 
 make
 
